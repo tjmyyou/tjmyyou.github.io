@@ -58,7 +58,7 @@ author_profile: true
 
 (27)	Hui-Hui Wang, Jiaming Liu, **Mingyu You** and Guozheng Li. Audio Signals Encoding for Cough Classification Using Convolutional Neural Networks: A Comparative Study. IEEE International Conference Bioinformatics and Biomedicine (BIBM), 2015. 
 
-（28）	Chao Zhuang, Hongjun Zhou, **Mingyu You**, Lei Liu. Markov blanket based sequential data feature selection for human motion recognition. IEEE International Conference on Robotics & Biomimetics (ROBIO), 2015. 
+(28)	Chao Zhuang, Hongjun Zhou, **Mingyu You**, Lei Liu. Markov blanket based sequential data feature selection for human motion recognition. IEEE International Conference on Robotics & Biomimetics (ROBIO), 2015. 
 
 
 
