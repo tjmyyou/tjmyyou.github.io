@@ -4,7 +4,6 @@ title: "论文"
 permalink: /publications/
 author_profile: true
 ---
-
 (1)	Peng Peng; **Mingyu You**; Kai Jiang; Hongjun Zhou; Weisheng Xu; Design of an Efficient CNN-based Cough Detection System on Lightweight FPGA, IEEE Transactions on Biomedical Circuits and Systems, 2023
 
 (2)	Weihao Wang; Rufeng Zhang; **Mingyu You**; Hongjun Zhou; Bin He; 3D Assembly Completion, AAAI 2023.
@@ -59,7 +58,7 @@ author_profile: true
 
 (27)	Hui-Hui Wang, Jiaming Liu, **Mingyu You** and Guozheng Li. Audio Signals Encoding for Cough Classification Using Convolutional Neural Networks: A Comparative Study. IEEE International Conference Bioinformatics and Biomedicine (BIBM), 2015. 
 
-(28)	Chao Zhuang, Hongjun Zhou, **Mingyu You**, Lei Liu. Markov blanket based sequential data feature selection for human motion recognition. IEEE International Conference on Robotics & Biomimetics (ROBIO), 2015. 
+（28）	Chao Zhuang, Hongjun Zhou, **Mingyu You**, Lei Liu. Markov blanket based sequential data feature selection for human motion recognition. IEEE International Conference on Robotics & Biomimetics (ROBIO), 2015. 
 
 
 
