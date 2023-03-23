@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "尤鸣宇"
-  avatar           : "profile.png"#头像
+  avatar           : "pic0.png"#头像
   bio              : "视觉感知与机器人学习，基于图像、3D的AIGC算法"
-  location         : "同济大学"
+  location         : "同济大学电信学院 上海自主无人中心"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"Fossil10"
+  github           : #"tymyyou"
   google_plus      :
   keybase          :
   instagram        :
