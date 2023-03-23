@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "论 文"
+  - title: "论文"
     url: /publications/
 
-  - title: "科 研"
+  - title: "科研"
     url: /research/
     
-  - title: "团 队"
+  - title: "团队"
     url: /team/
