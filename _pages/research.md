@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * 小目标视频检测和小样本迁移学习  
-  ![pic1](../images/小目标视频检测.png)
+  <img src="../images/小目标视频检测.png" alt="drawing" width="700"/>
 * 三维装配生成与补全:给定一系列候选部件，将其组装成完整的装配体，或将半成品补装完整。  
   ![pic2](../images/三维装配生成与补全.png)
 * 从机器人物理交互中学习结构化表征，提升机器人技能学习的样本效率和泛化性能。  
