@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "科研方向"
+title: "<b><font size=7>科研方向</font></b>  "
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -8,17 +8,17 @@ redirect_from:
 ---
 {% include base_path %}
 
-* <b><font size=4>三维装配生成与补全:给定一系列候选部件，将其组装成完整的装配体，或将半成品补装完整。</font></b>  
+* <b><font size=4.5>三维装配生成与补全:给定一系列候选部件，将其组装成完整的装配体，或将半成品补装完整。</font></b>  
   <img src="../images/三维装配生成与补全.png" alt="drawing" width="1000"/>
   <br>
     <br>
     
-* <b><font size=4>从机器人物理交互中学习结构化表征，提升机器人技能学习的样本效率和泛化性能。</font></b>  
+* <b><font size=4.8>从机器人物理交互中学习结构化表征，提升机器人技能学习的样本效率和泛化性能。</font></b>  
   <img src="../images/结构化表征.png" alt="drawing" width="1000"/>
   <br>
     <br>
     
-* <b><font size=4>小目标视频检测和小样本迁移学习。</font></b>  
+* <b><font size=5>小目标视频检测和小样本迁移学习。</font></b>  
   <img src="../images/小目标视频检测.png" alt="drawing" width="1000"/>
   <br>
     <br>
