@@ -16,6 +16,7 @@ redirect_from:
 * 从机器人物理交互中学习结构化表征，提升机器人技能学习的样本效率和泛化性能。  
   ![pic3](../images/结构化表征.png)
 * 目标检测模型的量化、剪枝压缩与卷积神经网络的FPGA部署。  
+* <img src="../images/FPGA.png" alt="drawing" width="100"/>
   ![pic4](../images/FPGA.png  =774×)
 * 运用可解释性模型进行高效准确的指令遵循，输入语言指令和图片特征来引导机器人长序列动作生成。  
   ![pic5](../images/长序列动作.png)
