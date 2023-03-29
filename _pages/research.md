@@ -31,7 +31,7 @@ redirect_from:
     <br>
     
 * <b><font size=4>目标检测模型的量化、剪枝压缩与卷积神经网络的FPGA部署。</font></b>  
-  <img src="../images/FPGA.png" alt="drawing" width="1000"/>
+  <img src="../images/FPGA1.png" alt="drawing" width="1000"/>
   <br>
     <br>
   
