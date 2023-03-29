@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "      <b><font size=6>科研方向</font></b>  "
+title: "      <b><font size=6>     科研方向</font></b>  "
 permalink: /research/
 author_profile: true
 redirect_from:
