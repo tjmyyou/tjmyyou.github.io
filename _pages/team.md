@@ -11,20 +11,10 @@ redirect_from:
 
 博士研究生
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 徐炫辉 韩煊 钱智丰 王伟昊 付豪 
 
 硕士研究生
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 温佳豪 周虹旭 苏志成 熊攀 李龙 任柏宇 姚启皓 薛金喆 
   
 
