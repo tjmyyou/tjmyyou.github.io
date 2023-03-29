@@ -8,7 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 <b><font size=5>
-* 三维装配生成与补全:给定一系列候选部件，将其组装成完整的装配体，或将半成品补装完整。  
+
+* <b><font size=5>三维装配生成与补全:给定一系列候选部件，将其组装成完整的装配体，或将半成品补装完整。</font></b>  
   <img src="../images/三维装配生成与补全.png" alt="drawing" width="1000"/>
   <br>
     <br>
