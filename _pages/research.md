@@ -6,9 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<font size=5>字体大小size=3
 {% include base_path %}
-* __<font size=7>三维装配生成与补全:给定一系列候选部件，将其组装成完整的装配体，或将半成品补装完整。<font>__  
+* __<font size=5>三维装配生成与补全:给定一系列候选部件，将其组装成完整的装配体，或将半成品补装完整。__  
   <img src="../images/三维装配生成与补全.png" alt="drawing" width="1000"/>
   <br>
     <br>
