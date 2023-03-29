@@ -18,7 +18,7 @@ redirect_from:
 * 目标检测模型的量化、剪枝压缩与卷积神经网络的FPGA部署。  
   <img src="../images/FPGA.png" alt="drawing" width="1000"/>
 * 运用可解释性模型进行高效准确的指令遵循，输入语言指令和图片特征来引导机器人长序列动作生成。  
-  ![pic5](../images/长序列动作.png)
+  <img src="../images/长序列动作.png" alt="drawing" width="1000"/>
 * 部分观测条件下，多智能体在合作任务上的规划与决策控制。  
   ![pic6](../images/多智能体合作.png)
 * 三维重建、物体位姿检测、虚实融合。  
