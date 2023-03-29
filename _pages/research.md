@@ -20,7 +20,7 @@ redirect_from:
 * 运用可解释性模型进行高效准确的指令遵循，输入语言指令和图片特征来引导机器人长序列动作生成。  
   <img src="../images/长序列动作.png" alt="drawing" width="1000"/>
 * 部分观测条件下，多智能体在合作任务上的规划与决策控制。  
-  ![pic6](../images/多智能体合作.png)
+  <img src="../images/多智能体合作.png" alt="drawing" width="500"/>
 * 三维重建、物体位姿检测、虚实融合。  
-  ![pic7](../images/虚实融合.png)
+  <img src="../images/虚实融合.png" alt="drawing" width="500"/>
 
